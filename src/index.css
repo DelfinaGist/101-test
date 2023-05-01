@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: linear-gradient(rgb(246, 229, 248), rgb(188, 193, 137));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Livvic', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: 'Livvic', cursive;
+}
